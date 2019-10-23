@@ -23,6 +23,7 @@ class CreateProprietariosTable extends Migration
             $table->string('uf', 2);
             $table->string('fone', 15);
             $table->string('email', 50);
+            $table->timestamps();
             
         });
     }

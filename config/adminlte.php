@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'AdminLTE 2',
+    'title' => 'Imovel WEB',
 
     'title_prefix' => '',
 
@@ -30,9 +30,9 @@ return [
     |
     */
 
-    'logo' => '<b>Admin</b>LTE',
+    'logo' => '<b>Imovel</b>WEB',
 
-    'logo_mini' => '<b>A</b>LT',
+    'logo_mini' => '<b>I</b>WEB',
 
     /*
     |--------------------------------------------------------------------------
